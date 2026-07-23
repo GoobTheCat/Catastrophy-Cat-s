@@ -1,0 +1,9 @@
+name: BetterCats
+version: '1.0.0'
+main: com.bettercats.BetterCatsPlugin
+api-version: '1.21'
+description: >
+  Tamed cats defend their owner, pounce like foxes, and can hold an item in
+  their mouth. Phase 1: base combat AI + item-holding. Sword, Flint & Steel,
+  Wind Charge, and Fire Charge support are separate follow-up passes.
+folia-supported: false
